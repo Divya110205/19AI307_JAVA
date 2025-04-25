@@ -48,7 +48,8 @@ public class Area {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/7c4f44ad-87a4-4ae6-ad1a-1a7643093675)
+![image](https://github.com/user-attachments/assets/82c3e981-00ab-451c-82dd-6e50abea34bf)
+
 
 ## RESULT:
 Thus, the Java program to print area of rectangle by defining instance method and local variable value as 10,20 was created successfully.
