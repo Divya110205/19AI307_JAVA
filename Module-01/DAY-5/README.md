@@ -5,15 +5,25 @@ To write a Java program to print Employee details (name, department, age), where
 
 ## ALGORITHM :
 1.Start the program.
+
 2.Create a class named Employee.
+
 3.Declare static variables dept and age in the Employee class.
+
 4.Declare an instance variable name.
+
 5.Create a constructor to initialize the employee's name.
+
 6.Define a method displayDetails() to print the employee's name, department, and age.
+
 7.In the main method of another class:
+
 i)Assign values to the static variables dept and age.
+
 ii)Create multiple Employee objects with different names.
+
 iii)Call the displayDetails() method for each employee.
+
 8.End the program.
 
 ## PROGRAM:
