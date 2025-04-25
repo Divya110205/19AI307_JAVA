@@ -43,8 +43,19 @@ public class Demo{
 ```
 
 ## OUTPUT:
+```
+Input	   Expected   	Got	
 
+23       true        true
+50       true        true
 
+50       true        true
+65       true        true
+
+55       true        true
+45       true        true
+
+```
 
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' or 'a < b' is true is created successfully.
