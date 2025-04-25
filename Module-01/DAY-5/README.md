@@ -4,6 +4,7 @@
 To write a Java program to print Employee details (name, department, age), where department and age are the same for all employees. Use static variables to represent department and age and demonstrate their use in accessing shared values across all class objects.
 
 ## ALGORITHM :
+
 1.Start the program.
 
 2.Create a class named Employee.
