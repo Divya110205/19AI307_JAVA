@@ -44,7 +44,7 @@ public class Demo{
 
 ## OUTPUT:
 ```
-Input	   Expected   	Got	
+Input	  Expected   	Got	
 
 23       true        true
 50       true        true
