@@ -13,29 +13,34 @@ a.	If true, print "Given number is Zero"
 b.	If false, print 'num' followed by " is Non-Zero"
 6.	End
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Divya.A
+RegisterNumber: 212222230034
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        int num;
+        Scanner input=new Scanner(System.in);
+        num=input.nextInt();
+        if(num==0)
+          System.out.print("Given number is Zero");
+        else
+          System.out.print(num+" is Non-Zero");
+    }
+}
+```
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/cc5d969e-151f-4d0e-ad62-999f1c1dbff1)
 
 
 ## RESULT:
