@@ -10,9 +10,13 @@ To create a class named 'Student' with a String variable 'dept', String variable
 2.Define a class named 'Student'.
 
 3.Declare the following variables inside the class:
+
             i)String name and initialize with "John".
+            
             ii)String dept and initialize with "Computer Science".
+            
             iii)int rollno and initialize with 101.
+            
             iv)double marks and initialize with 87.5.
 
 4.Define another class named 'Test'.
