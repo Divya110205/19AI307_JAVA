@@ -91,7 +91,7 @@ public static void main(String args[]){
 ## OUTPUT:
 
 ```
-Input   	Expected	   Got
+Input    Expected   Got
 5          50          50
 10
 
