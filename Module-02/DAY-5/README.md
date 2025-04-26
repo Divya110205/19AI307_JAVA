@@ -38,7 +38,9 @@ public class Main{
 ![image](https://github.com/user-attachments/assets/2da18b06-4113-4fcb-9750-366a2ea6e982)
 
 ## RESULT:
-Thus the java program successfully reads the array size and elements from the user and correctly finds and prints the smallest number in the array.
+Thus, the Java program using a public access modifier to display "Hello World" was successfully implemented and executed.
+
+
 
 
 
