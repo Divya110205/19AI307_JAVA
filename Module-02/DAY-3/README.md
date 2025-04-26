@@ -8,6 +8,7 @@ To create a Java program to read 3 values and display all 3 values from an array
 2.	Import the Scanner class from the java.util package.
 3.	Define a class named ArrayExample.
 4.	Inside the main method:
+
 i)Create a Scanner object called scanner to take user input.
 
 ii)Declare an integer array values of size 3.
@@ -15,12 +16,18 @@ ii)Declare an integer array values of size 3.
 iii)Use a for loop to iterate from i = 0 to i < 3:
 
 iv)Take input from the user and store it in values[i].
+
 5.Define a standard method displayArray(int[] array):
-6.Use a for loop to iterate through the array.
-7.Print each element followed by a space.
-8.Call the displayArray method from the main method.
-9.Close the scanner to release resources.
-10.End the program.
+
+i)Use a for loop to iterate through the array.
+
+ii)Print each element followed by a space.
+
+6.Call the displayArray method from the main method.
+
+7.Close the scanner to release resources.
+
+8.End the program.
 
 ## PROGRAM:
  ```
@@ -57,10 +64,6 @@ public class OnedimensionalStandard
 	}
 }
 ```
-
-
-
-
 
 ## OUTPUT:
 
