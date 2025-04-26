@@ -4,7 +4,7 @@
 To develop a Java program that uses the delete() method of the StringBuffer class to delete the string from the specified beginIndex to endIndex.
 
 ## ALGORITHM :
-1.	Start the program.
+1.Start the program.
 
 2.Import Scanner and define a class DeleteExample.
 
@@ -54,7 +54,7 @@ public class StringBufferExample4 {
 
 ## OUTPUT:
 ```
-Input	        Expected	    Got
+Input	      Expected	    Got
 Hello World   Hlo World    Hlo World
 1
 3
