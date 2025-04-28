@@ -52,7 +52,8 @@ public class Main{
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/329a23ae-5309-4f69-b1cd-bbcef040bc39)
+![image](https://github.com/user-attachments/assets/dd2ced34-8ba8-4b21-9ac5-8599cdb91b71)
+
 
 
 ## RESULT:
