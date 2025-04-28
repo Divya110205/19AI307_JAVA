@@ -61,7 +61,8 @@ public class Main{
 
 ## OUTPUT:
 ```
-Input    Expected  	                               Got
+Input        Expected  	                               Got
+
 2          Shapes Class                              Shapes Class
            Area of Circle is 12.56                   Area of Circle is 12.56
 
