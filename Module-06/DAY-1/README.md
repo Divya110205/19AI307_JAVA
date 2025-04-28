@@ -7,7 +7,7 @@ To create a Java Program to implement Method Local Inner Class.
 2.	Define outer class `name`:
 -	a) Declare `String name` and initialize it to "Johnson"
 -	b) Define inner class `inner`:
-- i) Define method `display()` that prints "Name given in Outer Class is " followed by `name`
+- c) Define method `display()` that prints "Name given in Outer Class is " followed by `name`
 3.	In the `main` method of `name` class:
 -	a) Create an instance `obj` of the `name` class
 -	b) Create an instance `obj2` of the inner class `inner` using `obj`
