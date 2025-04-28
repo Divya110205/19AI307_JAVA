@@ -9,23 +9,23 @@ To write a Java program using single inheritance to perform addition and subtrac
   
 2.	Create a parent class Number:
    
-a.	Define two integer variables num1 and num2 initialized with values 10 and 5.
+-a.	Define two integer variables num1 and num2 initialized with values 10 and 5.
 
-b. Define an integer variable result.
+-b. Define an integer variable result.
 
 3.	Create a subclass Addition that extends Number:
    
-a.	Define a method add() to perform addition and display the result.
+-a.	Define a method add() to perform addition and display the result.
 
 4.	Create another subclass Subtraction that extends Number:
 
-a.	Define a method sub() to perform subtraction and display the result.
+-a.	Define a method sub() to perform subtraction and display the result.
 
 5.	In the Main class:
    
-a.Create objects for Addition and Subtraction.
+-a.Create objects for Addition and Subtraction.
 
-b.	Call the add() and sub() methods respectively
+-b.	Call the add() and sub() methods respectively
 
 7.	End the program.
 
