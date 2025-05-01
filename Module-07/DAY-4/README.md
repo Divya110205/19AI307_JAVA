@@ -16,14 +16,37 @@
  ```
 /*
 Program to implement a Packages using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Divya.A
+RegisterNumber: 212222230034 
 */
 ```
 
 ## Sourcecode.java:
 
+```
+class Display
+{
+    static synchronized void wish(String name)
+    {
+        for(int i=0;i<=1;i++)
+        {
+            System.out.print("Welcome :: ");
+            try
+            {
+                Thread.sleep(600);
+            }
+            catch(InterruptedException e)
+            {
+                
+            }
+            System.out.println(name);
+        }
+    }
 
+
+
+}
+```
 
 
 
@@ -31,6 +54,8 @@ RegisterNumber:
 
 ## OUTPUT:
 
+
+![image](https://github.com/user-attachments/assets/1fc76157-3a36-4650-92a6-6f4f6599fb4c)
 
 
 ## RESULT:
