@@ -68,9 +68,9 @@ class Table{
 ## OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/1d45b7e6-e50c-442a-904e-63ab9d0bce71)
 
-![image](https://github.com/user-attachments/assets/c65f0395-6231-47cb-93b6-ec47d936c9ed)
+![image](https://github.com/user-attachments/assets/1d45b7e6-e50c-442a-904e-63ab9d0bce71)   ![image](https://github.com/user-attachments/assets/dd96c8ed-a10d-4394-a989-171317f34f43)
+
 
 
 ## RESULT:
