@@ -67,7 +67,8 @@ class Table{
 
 ## OUTPUT:
 
- ![image](https://github.com/user-attachments/assets/dd96c8ed-a10d-4394-a989-171317f34f43)
+![image](https://github.com/user-attachments/assets/f74b34d6-5bd6-42e7-98fc-4c44120275ed)
+
 
 
 
