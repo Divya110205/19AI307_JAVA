@@ -40,7 +40,8 @@ class CustomFilterReader1 extends FilterReader {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/bd7bdb9e-4c02-46e0-b152-a8d1777bad75)
+![image](https://github.com/user-attachments/assets/7146ad6b-612a-4fc5-9de7-6f47f5161920)
+
 
 
 ## RESULT:
