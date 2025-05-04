@@ -54,7 +54,8 @@ public class HelloWorld{
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/e4bfdf5b-af9a-45c6-8e76-90202fcb059f)
+![image](https://github.com/user-attachments/assets/e6cf41f7-007d-439c-a719-ecd1891cdb31)
+
 
 
 ## RESULT:
