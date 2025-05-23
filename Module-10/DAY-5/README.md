@@ -3,13 +3,21 @@
 ## AIM:
 To write a Java program to create a LinkedList, read the size and elements from the user, and display the element from the LinkedList at a specific position using the get() method.
 ## ALGORITHM :
+
 a.	Start the program.
+
 b.	Import java.util.*.
+
 c.	Create a Scanner object to read input from the user.
-d.	Read the size of the LinkedList
+
+d.	Read the size of the LinkedList.
+
 e.	Create a LinkedList<String> object.
+
 f.Read n elements from the user and add them to the list.
-g.Use the get() method to access and display the element at index 1
+
+g.Use the get() method to access and display the element at index 1.
+
 h.End the program.
 
 
