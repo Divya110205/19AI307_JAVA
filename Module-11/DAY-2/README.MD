@@ -71,25 +71,25 @@ System.out.println("Size of Map: " + map.size());
 
 ## OUTPUT:
 ```
-	Input	Expected	Got	
-2   key: 101 value: krishna key: 101 value: krishna
-100   key: 100 value: sri  key: 100 value: sri
-sri   Size of Map: 2   Size of Map: 2
-101  Size of Map: 0   Size of Map: 0
+Input	  Expected	               Got	
+2        key: 101 value: krishna     key: 101 value: krishna
+100      key: 100 value: sri         key: 100 value: sri
+sri      Size of Map: 2              Size of Map: 2
+101      Size of Map: 0              Size of Map: 0
 krishna
 
-3    key: 107 value: collection   key: 107 value: collection
-103   key: 104 value: java   key: 104 value: java
-top   key: 103 value: top   key: 103 value: top
-104   Size of Map: 3   Size of Map: 3
-java   Size of Map: 0  Size of Map: 0
+3        key: 107 value: collection  key: 107 value: collection
+103      key: 104 value: java        key: 104 value: java
+top      key: 103 value: top         key: 103 value: top
+104      Size of Map: 3              Size of Map: 3
+java     Size of Map: 0              Size of Map: 0
 107
 collection
 
-2   key: 201 value: river  key: 201 value: river
-201  key: 100 value: kite  key: 100 value: kite
-river  Size of Map: 2  Size of Map: 2
-100   Size of Map: 0  Size of Map: 0
+2        key: 201 value: river       key: 201 value: river
+201      key: 100 value: kite        key: 100 value: kite
+river    Size of Map: 2              Size of Map: 2
+100      Size of Map: 0              Size of Map: 0
 kite
 ```
 
