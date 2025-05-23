@@ -5,12 +5,19 @@ To write a Java program that prints the string "This is the text in the string."
 ## ALGORITHM :
 
 a.	Start the program.
+
 b.	Import java.io.StringWriter.
+
 c.	Define the string: "This is the text in the string.".
+
 d.	Create a StringWriter object.
+
 e.	Write the string into the StringWriter object using .write()
+
 f.	Print the contents of the StringWriter using .toString() or directly
+
 g.	Close the StringWriter.
+
 h.	End the program.
 
 ## PROGRAM:
