@@ -68,4 +68,4 @@ public class E {
 
 
 ## RESULT:
-Thus the Java program to associate the specified value with the specified key in a Tree Map was executed successfully.
+Thus, the Java program was successfully implemented to associate the specified value with the specified key in a TreeMap and sort the keys using a comparator.
