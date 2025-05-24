@@ -25,7 +25,7 @@ h.End the program.
 ## PROGRAM:
  ```
 /*
-Program to implement a LINKEDHASH SET
+Program to implement a JAVA LINKEDLIST get() METHOD
 Developed by: Divya.A
 RegisterNumber: 212222230034 
 */
