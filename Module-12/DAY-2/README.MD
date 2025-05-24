@@ -22,7 +22,7 @@ To write a Java program to display the student with the highest GPA from two giv
 ## PROGRAM:
  ```
 /*
-Program to implement a COMPARABLE & COMPARATOR INTERFACE using Java
+Program to implement a COMPARABLE INTERFACE using Java
 Developed by: Divya.A
 RegisterNumber: 212222230034 
 */
